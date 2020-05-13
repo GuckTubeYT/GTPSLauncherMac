@@ -1,0 +1,2 @@
+# GTPSLauncherMac
+GTPSLauncher For Mac
