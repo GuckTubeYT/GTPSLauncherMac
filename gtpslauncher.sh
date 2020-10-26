@@ -6,8 +6,7 @@
 ##    ##     ##    ##              ## ##       ######### ##     ## ##  #### ##       ##     ## ##       ##   ##   
 ##    ##     ##    ##        ##    ## ##       ##     ## ##     ## ##   ### ##    ## ##     ## ##       ##    ##  
  ######      ##    ##         ######  ######## ##     ##  #######  ##    ##  ######  ##     ## ######## ##     ## 
-# GTPSLauncher For Mac (C) GuckTube YT
-# Dont forget to Credit me
+
 
 if [ "$EUID" -ne 0 ]
   then echo "ERROR: Please Run as Sudo/Root, Type 'sudo ./name.sh'"
